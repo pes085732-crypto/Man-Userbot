@@ -70,22 +70,3 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 ## Updates & Support
 
 Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot dan Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Man-Userbot.
-
-#### Special Thanks To [Everyone](https://github.com/mrismanaziz/Man-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
--  [AdekMaulana](https://github.com/adekmaulana) : ProjectBish
--  [RaphielGang](https://github.com/RaphielGang) : Paperplane
--  [TeamUltroid](https://github.com/TeamUltroid/Ultroid) :  UltroidUserbot
--  [BianSepang](https://github.com/BianSepang/WeebProject) : WeebProject
--  [Sandy1709](https://github.com/sandy1709/catuserbot) : CatUserbot
--  [X_ImFine](https://github.com/ximfine) :  XBot-REMIX
--  [Risman](https://github.com/mrismanaziz/Man-Userbot) :  Man-Userbot
--  [Koala](https://github.com/ManusiaRakitan/Kampang-Bot) : Kampang-Bot
--  [Alvin](https://github.com/Zora24/Lord-Userbot) : Lord-Userbot
-
-## © Credits
--  [Laky-64](https://github.com/Laky-64) for [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
--  [Lonami](https://github.com/LonamiWebs/) for [Telethon](https://github.com/LonamiWebs/Telethon)
--  [Risman](https://github.com/mrismanaziz) for [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)
-
-## License
-Licensed under [Raphielscape Public License](https://github.com/mrismanaziz/Man-Userbot/blob/Man-Userbot/LICENSE) - Version 1.d, February 2020
